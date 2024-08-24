@@ -17,7 +17,7 @@ O sistema permite a criação de personagens com diferentes atributos, raças, c
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/username/repository.](https://github.com/Apedrejado/KotlinDED.git
+   git clone https://github.com/Apedrejado/KotlinDED.git
 Navegue até o diretório do projeto:
 
 bash
